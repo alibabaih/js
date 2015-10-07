@@ -1,0 +1,32 @@
+.block-a {
+    width: 100%;
+    background-color: #3F8FD4;
+    height: 200px;
+    color: white;
+    padding: 10px;
+    border: 1px solid #3478B3;
+    margin-bottom: 3px;
+}
+.block-b1 {
+    background-color: #3F8FD4;
+    display: inline-block;
+    width: 20%
+}
+.block-b2 {
+    background-color: #3F8FD4;
+    display: inline-block;
+    width: 70%;
+}
+.block-c {
+    height: 20px;
+    background-color: brown;
+    width: 100%
+}
+.block-d1 {
+    display: inline-block;
+    width: 40%;
+}
+.block-d2 {
+display: inline-block;
+    width: 40%;
+}
